@@ -46,7 +46,6 @@ ggplot(data=mygen2_cnt,mapping=aes(x=group,y=log2(count+1),colour=group))+
 
 #This pattern can be used to identify differentially expressed genes (DEGs) and infer functional specialization in mammary epithelial subtypes.
 
-#Would you like a short report version of this summary for your project or
 
 
 
